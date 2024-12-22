@@ -10,3 +10,6 @@ Welcome to my GitHub page! I'm Jeffery, a software developer specializing in web
 #### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
+
+**<h3 align="left">GitHub Stats</h3>**
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jun12079&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub Top Languages Card" />
