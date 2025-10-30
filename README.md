@@ -6,9 +6,9 @@ I'm Jeffery, a software developer specializing in web backends with extensive ex
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,mongodb,rabbitmq)](https://skillicons.dev)
 #### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,jquery,react,nextjs)](https://skillicons.dev)
 #### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,postman,vercel)](https://skillicons.dev)
 
 
 **<h3 align="left">GitHub Stats</h3>**
